@@ -31,6 +31,4 @@ Created Power BI visuals from the Sample - Superstore dataset to analyze sales p
 Niyansha Dubey
 
 
-Author
 
-Niyansha Dubey
