@@ -1,0 +1,6 @@
+INSIGHTS – Sample - Superstore Dataset
+
+1. Technology is the highest-selling category, contributing the largest share of total sales. Highlighted in green in the donut chart.
+2. The West region outperforms all other regions, leading in total sales. Highlighted in gold in the bar chart.
+3. Furniture ranks second in sales, showing moderate performance compared to Technology.
+4. Office Supplies has the lowest sales share, indicating potential for targeted growth strategies.
